@@ -32,6 +32,10 @@ div.header {
   color:silver;
   border: none;
 }
+div.breadcrumb {
+  float:center;
+  text-align: center;
+}
 div.footer {
   font-size:80%;
   color:silver;
@@ -130,8 +134,4 @@ li.private {
 .superscript {
   vertical-align: super;
   font-size:60%;
-}
-.breadcrumb {
-  float:center;
-  text-align: center;
 }
