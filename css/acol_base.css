@@ -19,6 +19,7 @@ div#nav {
   padding-bottom: 5px;
   /*border: 1px outset silver;*/
   clear:both;
+  text-align: center;
 }
 div#details {
   margin-right:12%;
@@ -38,6 +39,7 @@ div.footer {
   padding-top: 5px;
   padding-bottom: 5px;
   vertical-align: middle;
+  text-align: center;
 }
 div.width {
   width:800px;
