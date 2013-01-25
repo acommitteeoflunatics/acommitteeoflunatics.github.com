@@ -54,6 +54,11 @@ img#logo {
   border:0 solid;
   float:right;
 }
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
 img.noborder {
   border: 0 none;
 }
@@ -108,22 +113,25 @@ list-style-type: none;
 padding: 0px;
 margin: 0px;
 }
+li {
+  padding-left: 10px;
+  background-repeat: no-repeat;
+  background-position: 0 2px;
+}
 /* used to mark a public repo */
 li.public {
-  padding-left: 10px;
   background-image: url(images/icon_unlocked.gif);
-  background-repeat: no-repeat;
-  background-position: 0 .5em;
 }
 /* used to mark a private repo */
 li.private {
-  padding-left: 10px;
   background-image: url(images/icon_locked.gif);
-  background-repeat: no-repeat;
-  background-position: 0 .5em;
 }
 /* self-explanatory */
 .superscript {
   vertical-align: super;
   font-size:60%;
+}
+.breadcrumb {
+  float:center;
+  text-align: center;
 }
