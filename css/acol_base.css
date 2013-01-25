@@ -1,32 +1,11 @@
-<<<<<<< HEAD
 body {
   background-color:black;
   color:white; 
   font-family:"Droid Sans", "Lucida Sans Unicode", sans-serif;
-=======
-/* link decoration */
-a {
-  color:burlywood;
-  text-decoration:none;
-  letter-spacing:1px;
-}
-a:hover {
-  color:gold;
-}
-a#current {
-  color:cornsilk;
-}
-body {
-  background-color:black;
-  color:cornsilk;
-  font-size:80%;
-  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
->>>>>>> 9d15997120eabb3240136be9a8cc101be1827452
   text-align:left;
   margin-right:12%;
   margin-left:12%;
 }
-<<<<<<< HEAD
 div#wrapper { 
   text-align: left; 
   margin: 0 auto; 
@@ -59,45 +38,15 @@ div.footer {
   padding-top: 5px;
   padding-bottom: 5px;
   vertical-align: middle;
-=======
-div#wrapper {
-  background-color:#5E4D38;
-  width:100%;
-}
-div#nav {
-  color:silver;
-  background-color:saddlebrown;
-  width:100%;
-  padding-bottom:4px;
-  padding-top:2px;
-}
-div.footer {
-  font-size:80%;
-  color:peru;
-  background-color:black;
-  width:100%;
-  padding-bottom:1px;
-  padding-top:4px;
->>>>>>> 9d15997120eabb3240136be9a8cc101be1827452
 }
 div.width {
   width:800px;
   text-align:left;
 }
-<<<<<<< HEAD
-=======
-hr {
-  background-color:peru;
-  color:peru;
-  border:0;
-  width:100%;
-}
->>>>>>> 9d15997120eabb3240136be9a8cc101be1827452
 img {
   text-decoration:none;
-  border:thin solid;
+  border: 0 solid;
 }
-<<<<<<< HEAD
 img#logo {
   text-decoration:none;
   border:0 solid;
@@ -116,24 +65,11 @@ a:hover {
 }
 a#current {
   color:cornsilk;
-=======
-img.noborder {
-  border: 0 none;
-  padding-top:4px;
-}
-/* general css IDs for layout manipulation */
-#contact {
-  text-align:left;
-}
-#floater {
-  text-align:center;
->>>>>>> 9d15997120eabb3240136be9a8cc101be1827452
 }
 #labels {
   float:left;
   text-align:right;
 }
-<<<<<<< HEAD
 #contact {
   text-align:left;
 }
@@ -144,11 +80,6 @@ iframe {
 #floater {
   text-align:center;
 }
-.superscript {
-  vertical-align: super;
-  font-size:60%;
-}   
-=======
 /* used to style 404 iframe pulling data from notfound.org */
 #notfound_org {
   border:0;
@@ -194,4 +125,3 @@ li.private {
   vertical-align: super;
   font-size:60%;
 }
->>>>>>> 9d15997120eabb3240136be9a8cc101be1827452
