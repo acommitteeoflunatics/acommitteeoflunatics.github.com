@@ -119,16 +119,19 @@ margin: 0px;
 }
 li {
   padding-left: 10px;
-  background-repeat: no-repeat;
   background-position: 0 2px;
-}
+  }
 /* used to mark a public repo */
 li.public {
-  background-image: url(images/icon_unlocked.gif);
+  background-image: url(images/public.png);
+  background-size: 16px;
+  background-repeat: no-repeat;
 }
 /* used to mark a private repo */
 li.private {
-  background-image: url(images/icon_locked.gif);
+  background-image: url(images/private.png);
+  background-size: 20px;
+  background-repeat: no-repeat;
 }
 /* self-explanatory */
 .superscript {
