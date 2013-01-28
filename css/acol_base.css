@@ -35,6 +35,8 @@ div.header {
 div.breadcrumb {
   float:center;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 div.footer {
   font-size:80%;
@@ -62,7 +64,7 @@ img.centered {
     display: block;
     float: both;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto;
 }
 img.noborder {
   border: 0 none;
