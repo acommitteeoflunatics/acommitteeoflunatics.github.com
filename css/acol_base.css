@@ -60,6 +60,7 @@ img#logo {
 }
 img.centered {
     display: block;
+    float: both;
     margin-left: auto;
     margin-right: auto 
 }
