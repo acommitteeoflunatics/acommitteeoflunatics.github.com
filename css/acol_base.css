@@ -125,9 +125,10 @@ li {
 }
 #inline li {
   display: inline;
-  list-style-type: none;
-  padding-right: 20px;
-  font-size: 80%;
+  list-style-type:none;
+  float:left;
+  font-size:80%;
+  margin-right: 20px;
 }
 /* used to mark a public repo */
 li.public {
