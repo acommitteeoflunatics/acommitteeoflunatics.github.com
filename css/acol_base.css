@@ -49,7 +49,7 @@ div.footer {
 }
 div.width {
   width: 100%; 
-  text-align:center;
+  text-align:left;
   margin-left: auto;
   margin-right: auto;
 }
