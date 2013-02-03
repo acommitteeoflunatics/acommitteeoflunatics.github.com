@@ -127,17 +127,18 @@ ul.inline {
   font-size: 80%;
 }
 li {
-  padding-left: 10px;
-  background-repeat: no-repeat;
   list-style-type: none;
-  background-position: 0 2px;
 }
 /* used to mark a public repo */
 li.public {
+  padding-left: 10px;
+  background-position: 0 2px;
   background-image: url(images/icon_unlocked.gif);
 }
 /* used to mark a private repo */
 li.private {
+  padding-left: 10px;
+  background-position: 0 2px;
   background-image: url(images/icon_locked.gif);
 }
 /* self-explanatory */
