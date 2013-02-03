@@ -120,14 +120,14 @@ ul {
   padding: 0px;
   margin: 0px;
 }
-ul.inline {
+li {
+  list-style-type: none;
+}
+#inline li {
   display: inline;
   list-style-type: none;
   padding-right: 20px;
   font-size: 80%;
-}
-li {
-  list-style-type: none;
 }
 /* used to mark a public repo */
 li.public {
