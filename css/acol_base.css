@@ -10,6 +10,7 @@ div#outer {
   margin-right: auto;
 }
 div#wrapper { 
+  font-size: 100%;
   text-align: left; 
   width: 100%; 
   margin-left: auto;

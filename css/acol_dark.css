@@ -4,14 +4,13 @@
 body {
   background-color:#000000;
   color:#c0c0c0; 
-  font-family:" Ubuntu", "Droid Sans", "Lucida Sans Unicode", sans-serif;
 }
 div#wrapper { 
   /*border: 1px solid #c0c0c0; */
 }
 div#nav {
   color:#c0c0c0;
-  /*text-shadow: 2px 2px 7px #c0c0c0;
+  /*text-shadow: 2px 2px 7px #ccc;
   border: 1px solid #c0c0c0; */
 }
 div.header {
@@ -22,7 +21,7 @@ div.footer {
 }
 a {
   color:#1e90ff;
-  text-shadow: 2px 2px 7px #111;
+  text-shadow: 2px 2px 7px #ccc;
   text-decoration:none;
   letter-spacing:1px;
 }
@@ -31,6 +30,7 @@ a:visited {
 }
 a#current {
   color:#c0c0c0;
+  letter-spacing:1px;
 }
 a:hover {
   color:#a0522d;
