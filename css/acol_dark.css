@@ -11,6 +11,7 @@ div#wrapper {
 }
 div#nav {
   color:#c0c0c0;
+  text-shadow: 2px 2px 7px #c0c0c0;
   /*border: 1px solid #c0c0c0; */
 }
 div.header {
