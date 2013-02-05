@@ -11,8 +11,8 @@ div#wrapper {
 }
 div#nav {
   color:#9c9c9c;
-  text-shadow: 2px 2px 7px #c0c0c0;
-  /*border: 1px solid #9c9c9c; */
+  /*text-shadow: 2px 2px 7px #111;
+  border: 1px solid #9c9c9c; */
 }
 div.header {
   color:#9c9c9c;
@@ -22,7 +22,7 @@ div.footer {
 }
 a {
   color:#1e90ff;
-  text-shadow: 2px 2px 7px #c0c0c0;
+  text-shadow: 2px 2px 7px #111;
   text-decoration:none;
   letter-spacing:1px;
 }
