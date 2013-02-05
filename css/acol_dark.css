@@ -21,6 +21,7 @@ div.footer {
 }
 a {
   color:#1e90ff;
+  text-shadow: 2px 2px 7px #c0c0c0;
   text-decoration:none;
   letter-spacing:1px;
 }
