@@ -68,7 +68,7 @@ img#logo {
 }
 img#html5-logo {
   text-decoration:none;
-  float:left;
+  float:right;
   border:0 solid;
   display: block;
   margin-left: auto;
@@ -78,7 +78,7 @@ img#html5-logo {
 }
 img#css3-logo {
   text-decoration:none;
-  float:right;
+  float:left;
   border:0 solid;
   display: block;
   margin-left: auto;
