@@ -72,13 +72,16 @@ img#html5-logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 32px;
+  padding-right: 10px;
+  max-height: 32px;
 }
-img.centered {
+img#css3-logo {
+  text-decoration:none;
+  border:0 solid;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  float:left;
+  padding-left: 10px;
   max-height: 32px;
 }
 img.noborder {
