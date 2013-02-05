@@ -23,6 +23,7 @@ div#nav {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  text-shadow: 2px 2px 7px #111;
 }
 div#details {
   text-align:center;
