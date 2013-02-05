@@ -23,8 +23,6 @@ div#nav {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  -webkit-box-shadow: 3px 3px 3px #888;
-  -moz-box-shadow: 3px 3px 3px #888;"  
 }
 div#details {
   text-align:center;
@@ -84,7 +82,7 @@ img#css3-logo {
   margin-left: auto;
   margin-right: 45%;
   padding-left: 10px;
-  max-height: 32px;
+  max-height: 36px;
 }
 img.noborder {
   border: 0 none;
