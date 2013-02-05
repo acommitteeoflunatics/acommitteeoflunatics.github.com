@@ -10,7 +10,6 @@ div#outer {
   margin-right: auto;
 }
 div#wrapper { 
-  font-size: 100%;
   text-align: left; 
   width: 100%; 
   margin-left: auto;
@@ -113,7 +112,7 @@ iframe {
   font-size:100%;
   text-align:left;
   width: 100%; 
-  
+}
 /* used to style a generic block of code */
 .code {
   margin-left:auto;
