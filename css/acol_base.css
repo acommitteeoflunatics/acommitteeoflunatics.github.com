@@ -68,21 +68,21 @@ img#logo {
 }
 img#html5-logo {
   text-decoration:none;
-  float:both;
+  float:left;
   border:0 solid;
   display: block;
-  margin-left: auto;
+  margin-left: 40%;
   margin-right: auto;
   padding-right: 10px;
   max-height: 32px;
 }
 img#css3-logo {
   text-decoration:none;
-  float:both;
+  float:right;
   border:0 solid;
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 40%;
   padding-left: 10px;
   max-height: 32px;
 }
